@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "typecheck": "tsc",
-    "test": "jest --watch",
+    "test": "jest",
     "cover": "jest --coverage"
   },
   "repository": {
