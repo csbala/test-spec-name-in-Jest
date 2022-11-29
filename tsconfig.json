@@ -1,7 +1,7 @@
 {
  "compilerOptions": {
     "target": "es2018",
-    "outDir": "./dist",
+    "outDir": "./js",
     "rootDir": "./src",
     "module": "commonjs"
     }
