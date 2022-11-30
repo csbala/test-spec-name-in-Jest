@@ -1,4 +1,5 @@
 module.exports = {
-  testMatch: ['**/*test.js'],
-  testEnvironment: "./js/customEnv.js"
+  preset: "ts-jest",
+  testMatch: ['**/*test.ts']
+  // testEnvironment: "./js/customEnv.js"
 };
